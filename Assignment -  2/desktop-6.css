@@ -1,0 +1,295 @@
+.about-us6,
+.category5,
+.contact5,
+.home5 {
+  position: absolute;
+  top: 297px;
+  left: 2090px;
+  font-size: var(--font-size-45xl);
+}
+.category5,
+.contact5,
+.home5 {
+  left: 1118px;
+  cursor: pointer;
+}
+.category5,
+.contact5 {
+  left: 1549px;
+}
+.contact5 {
+  left: 2621px;
+}
+.menu-icon5,
+.women-shoe-side-view5 {
+  position: absolute;
+  top: 292px;
+  left: 830px;
+  width: 100px;
+  height: 88px;
+  object-fit: cover;
+}
+.women-shoe-side-view5 {
+  top: 19px;
+  left: 65px;
+  width: 172px;
+  height: 172px;
+  cursor: pointer;
+}
+.restoerun11 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.restoerun10,
+.restoerun12 {
+  position: absolute;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jacques-francois-shadow);
+  display: inline-block;
+  width: 864px;
+  height: 155px;
+}
+.restoerun10 {
+  top: 36px;
+  left: 225px;
+  cursor: pointer;
+}
+.restoerun12 {
+  top: 494px;
+  left: 598px;
+}
+.heart-icon5,
+.shopping-cart-icon5 {
+  position: absolute;
+  top: 67px;
+  left: 3057px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.shopping-cart-icon5 {
+  left: 3229px;
+}
+.sign-in5 {
+  position: absolute;
+  top: 84px;
+  left: 3401px;
+  cursor: pointer;
+}
+.privacy-policy5,
+.return-policy5 {
+  position: absolute;
+  top: 3328px;
+  left: 768px;
+}
+.return-policy5 {
+  left: 1364px;
+}
+.facebook-icon5,
+.instagram-icon5,
+.twitter-icon5,
+.youtube-icon5 {
+  position: absolute;
+  top: 3328px;
+  left: 2957px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon5,
+.instagram-icon5,
+.youtube-icon5 {
+  top: 3324px;
+  left: 3435px;
+}
+.facebook-icon5,
+.instagram-icon5 {
+  left: 3279px;
+}
+.instagram-icon5 {
+  left: 3113px;
+}
+.desktop-6-child,
+.desktop-6-item {
+  position: absolute;
+  top: 414.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3621px;
+  height: 1px;
+}
+.desktop-6-item {
+  top: 3209.5px;
+}
+.about,
+.terms-condition4 {
+  position: absolute;
+  top: 3328px;
+  left: 100px;
+}
+.about {
+  top: 494px;
+  left: 90px;
+  font-size: var(--font-size-109xl);
+}
+.shopping-cart-icon6 {
+  position: absolute;
+  top: 67px;
+  left: 3229px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.despite-all-the,
+.for-15-years,
+.our-unique-concept {
+  position: absolute;
+  top: 828px;
+  left: 90px;
+  display: inline-block;
+  width: 2040px;
+}
+.despite-all-the,
+.our-unique-concept {
+  top: 1108px;
+  width: 1996px;
+}
+.our-unique-concept {
+  top: 1388px;
+  width: 1976px;
+}
+.desktop-6-inner {
+  position: absolute;
+  top: 1666px;
+  left: 114px;
+  background-color: var(--color-red);
+  width: 3404px;
+  height: 844px;
+}
+.res-toe {
+  position: absolute;
+  top: 1919px;
+  left: 774px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jacques-francois-shadow);
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.active-and {
+  margin: 0;
+}
+.active-and-athletic-inspired-container {
+  position: absolute;
+  top: 2111px;
+  left: 2430px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.desktop-6-child1 {
+  position: absolute;
+  top: 794px;
+  left: 2234px;
+  width: 1284px;
+  height: 808px;
+  object-fit: cover;
+}
+.desktop-6-child2 {
+  position: absolute;
+  top: 54px;
+  left: 1272px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1361px;
+  height: 147px;
+}
+.what-are-you4 {
+  position: absolute;
+  top: 88px;
+  left: 1411px;
+  font-weight: 300;
+}
+.comfortablecasual-footwear {
+  position: absolute;
+  top: 2111px;
+  left: 774px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+}
+.useful-info {
+  margin: 0;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.faqs {
+  margin-bottom: 0;
+}
+.faqs-return-and-exchange-size {
+  margin: 0;
+  padding-left: var(--padding-45xl);
+}
+.useful-info-faqs-container {
+  position: absolute;
+  top: 2688px;
+  left: 1436px;
+}
+.corporate-and-legal-container {
+  position: absolute;
+  top: 2688px;
+  left: 2650px;
+  display: inline-block;
+  width: 568px;
+  height: 220px;
+}
+.about1 {
+  margin: 0;
+  font-weight: 500;
+}
+.history-store-location-contact {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+  padding-left: var(--padding-45xl);
+}
+.about-history-store-container,
+.toe-flaunting-sandals-and-container {
+  position: absolute;
+  top: 2688px;
+  left: 159px;
+  font-size: var(--font-size-45xl);
+}
+.toe-flaunting-sandals-and-container {
+  top: 2111px;
+  left: 1646px;
+  color: var(--color-white);
+}
+.customer-icon5,
+.search-icon4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.customer-icon5 {
+  top: 67px;
+  left: 2885px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.search-icon4 {
+  top: 78px;
+  left: 1302px;
+  object-fit: cover;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3478px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

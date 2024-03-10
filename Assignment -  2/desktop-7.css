@@ -1,0 +1,382 @@
+.about-us7,
+.category6,
+.contact6,
+.home6 {
+  position: absolute;
+  top: 278px;
+  left: 2070px;
+  text-align: left;
+  cursor: pointer;
+}
+.category6,
+.contact6,
+.home6 {
+  left: 1098px;
+}
+.category6,
+.contact6 {
+  left: 1529px;
+}
+.contact6 {
+  left: 2601px;
+}
+.menu-icon6,
+.women-shoe-side-view6 {
+  position: absolute;
+  top: 273px;
+  left: 810px;
+  width: 100px;
+  height: 88px;
+  object-fit: cover;
+}
+.women-shoe-side-view6 {
+  top: 0;
+  left: 45px;
+  width: 172px;
+  height: 172px;
+  cursor: pointer;
+}
+.restoerun15 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.p7 {
+  margin: 0;
+}
+.restoerun14 {
+  position: absolute;
+  top: 17px;
+  left: 205px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jacques-francois-shadow);
+  text-align: left;
+  display: inline-block;
+  width: 864px;
+  height: 155px;
+  cursor: pointer;
+}
+.heart-icon6,
+.shopping-cart-icon7 {
+  position: absolute;
+  top: 48px;
+  left: 3037px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.shopping-cart-icon7 {
+  left: 3209px;
+}
+.sign-in6 {
+  position: absolute;
+  top: 65px;
+  left: 3381px;
+  font-size: var(--font-size-29xl);
+  text-align: left;
+  cursor: pointer;
+}
+.facebook-icon6,
+.instagram-icon6,
+.twitter-icon6,
+.youtube-icon6 {
+  position: absolute;
+  top: 3183px;
+  left: 2909px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon6,
+.instagram-icon6,
+.youtube-icon6 {
+  left: 3437px;
+}
+.facebook-icon6,
+.instagram-icon6 {
+  left: 3261px;
+}
+.instagram-icon6 {
+  left: 3085px;
+}
+.desktop-7-child {
+  position: absolute;
+  top: 395.5px;
+  left: -20.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3621px;
+  height: 1px;
+}
+.shopping-cart-icon8 {
+  position: absolute;
+  top: 48px;
+  left: 3209px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-7-item {
+  position: absolute;
+  top: 1106.5px;
+  left: 993.5px;
+  border-right: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3px;
+  height: 1621.6px;
+}
+.search-in-orders {
+  position: absolute;
+  top: 1097px;
+  left: 1163px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+}
+.search-icon5 {
+  position: absolute;
+  top: 1097px;
+  left: 1044px;
+  width: 71px;
+  height: 71px;
+  object-fit: cover;
+}
+.you-havent-placed {
+  position: absolute;
+  top: 1235px;
+  left: 1065px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+}
+.about2 {
+  margin: 0;
+  font-weight: 500;
+}
+.history1 {
+  margin-bottom: 0;
+}
+.history-store-location-contact1 {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+  padding-left: var(--padding-45xl);
+}
+.about-history-store-container1 {
+  position: absolute;
+  top: 2761px;
+  left: 260px;
+  text-align: left;
+  cursor: pointer;
+}
+.useful-info1 {
+  margin: 0;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.faqs-return-and-exchange-size1 {
+  margin: 0;
+  padding-left: var(--padding-45xl);
+}
+.corporate-and-legal-container1,
+.useful-info-faqs-container1 {
+  position: absolute;
+  top: 2761px;
+  left: 1537px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+}
+.corporate-and-legal-container1 {
+  left: 2751px;
+  display: inline-block;
+  width: 568px;
+  height: 220px;
+}
+.customer-icon6 {
+  position: absolute;
+  top: 48px;
+  left: 2865px;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+.desktop-7-inner {
+  position: absolute;
+  top: 51px;
+  left: 1240px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1361px;
+  height: 147px;
+}
+.what-are-you5 {
+  position: absolute;
+  top: 106px;
+  left: 1363px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+  text-align: left;
+}
+.search-icon6 {
+  position: absolute;
+  top: 85px;
+  left: 1263px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.my-orders,
+.my-wishlist,
+.saved-details {
+  position: absolute;
+  top: 1116px;
+  left: 346px;
+  font-weight: 300;
+}
+.my-wishlist,
+.saved-details {
+  top: 1258px;
+  font-weight: 200;
+}
+.saved-details {
+  top: 1396px;
+}
+.account-settings,
+.contact-us2,
+.store-locator {
+  position: absolute;
+  top: 1538px;
+  left: 346px;
+  font-weight: 200;
+}
+.contact-us2,
+.store-locator {
+  top: 1917px;
+  left: 349px;
+}
+.contact-us2 {
+  top: 2055px;
+}
+.about-us8,
+.privacy-policy8,
+.terms-of-use2 {
+  position: absolute;
+  top: 2288px;
+  left: 365px;
+  font-weight: 200;
+}
+.privacy-policy8,
+.terms-of-use2 {
+  top: 2430px;
+}
+.privacy-policy8 {
+  top: 2572px;
+  left: 396px;
+}
+.desktop-7-child1,
+.desktop-7-child2 {
+  position: absolute;
+  top: 1789.5px;
+  left: -1.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1003px;
+  height: 3px;
+}
+.desktop-7-child2 {
+  top: 2229.5px;
+  left: -6.5px;
+}
+.desktop-7-child3,
+.line-icon {
+  position: absolute;
+  top: 1201px;
+  left: 1000px;
+  width: 2620px;
+  height: 2.4px;
+  object-fit: contain;
+}
+.desktop-7-child3 {
+  top: 2724px;
+  left: -5px;
+  width: 3620px;
+  height: 6.4px;
+}
+.hello-khushi-savalia,
+.view-details {
+  position: absolute;
+  top: 679px;
+  left: 513px;
+}
+.view-details {
+  top: 796px;
+  left: 516px;
+  font-size: var(--font-size-29xl);
+  font-weight: 300;
+}
+.desktop-7-child4 {
+  position: absolute;
+  top: 884.5px;
+  left: 514.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 279px;
+  height: 3px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 583px;
+  left: 97px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 378px;
+  height: 355px;
+}
+.customer-icon7 {
+  position: absolute;
+  top: 640px;
+  left: 173px;
+  width: 226px;
+  height: 202px;
+  object-fit: contain;
+}
+.account,
+.online-order {
+  position: absolute;
+  top: 757px;
+  left: 1810px;
+}
+.account {
+  top: 673px;
+  left: 160px;
+  width: 248px;
+  height: 248px;
+}
+.home7 {
+  font-weight: 200;
+}
+.home-profile-container {
+  position: absolute;
+  top: 417px;
+  left: 68px;
+  font-size: var(--font-size-29xl);
+}
+.desktop-7-child5 {
+  position: absolute;
+  top: 884.5px;
+  left: 1646.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 791px;
+  height: 3px;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3334px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

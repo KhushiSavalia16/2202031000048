@@ -1,0 +1,573 @@
+.about-us9 {
+  position: absolute;
+  top: 313px;
+  left: 2090px;
+  font-size: var(--font-size-45xl);
+  text-align: left;
+  cursor: pointer;
+}
+.home8 {
+  left: 1118px;
+  cursor: pointer;
+}
+.category7,
+.contact7,
+.home8 {
+  position: absolute;
+  top: 313px;
+  font-size: var(--font-size-45xl);
+  text-align: left;
+}
+.category7 {
+  left: 1549px;
+  cursor: pointer;
+}
+.contact7 {
+  left: 2621px;
+}
+.menu-icon7,
+.women-shoe-side-view7 {
+  position: absolute;
+  top: 308px;
+  left: 830px;
+  width: 100px;
+  height: 88px;
+  object-fit: cover;
+}
+.women-shoe-side-view7 {
+  top: 35px;
+  left: 65px;
+  width: 172px;
+  height: 172px;
+  cursor: pointer;
+}
+.restoerun17 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.p8 {
+  margin: 0;
+}
+.restoerun16 {
+  position: absolute;
+  top: 52px;
+  left: 225px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-jacques-francois-shadow);
+  text-align: left;
+  display: inline-block;
+  width: 864px;
+  height: 155px;
+  cursor: pointer;
+}
+.heart-icon7,
+.shopping-cart-icon9 {
+  position: absolute;
+  top: 83px;
+  left: 3057px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.shopping-cart-icon9 {
+  left: 3229px;
+}
+.sign-in7 {
+  position: absolute;
+  top: 100px;
+  left: 3401px;
+  text-align: left;
+  cursor: pointer;
+}
+.desktop-8-child {
+  position: absolute;
+  top: 428.5px;
+  left: -2.5px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3625px;
+  height: 5px;
+}
+.shopping-cart-icon10 {
+  position: absolute;
+  top: 83px;
+  left: 3229px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.desktop-8-item {
+  position: absolute;
+  top: 431px;
+  left: 0;
+  width: 3620px;
+  height: 643px;
+  object-fit: cover;
+}
+.help-center {
+  position: absolute;
+  top: 431px;
+  left: 1501px;
+  font-size: var(--font-size-77xl);
+  text-align: left;
+}
+.desktop-8-inner {
+  position: absolute;
+  top: 1026px;
+  left: 1089px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1361px;
+  height: 147px;
+}
+.home9 {
+  top: 3931px;
+  left: 210px;
+  font-weight: 300;
+  text-align: left;
+}
+.category8,
+.customer-icon8,
+.home9 {
+  position: absolute;
+  cursor: pointer;
+}
+.category8 {
+  top: 3845px;
+  left: 210px;
+  font-weight: 300;
+  text-align: left;
+}
+.customer-icon8 {
+  top: 83px;
+  left: 2885px;
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+.what-are-you6 {
+  position: absolute;
+  top: 1074px;
+  left: 1241px;
+  font-weight: 300;
+  text-align: left;
+}
+.search-icon7 {
+  position: absolute;
+  top: 1053px;
+  left: 1118px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.desktop-8-child1,
+.desktop-8-child2,
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  position: absolute;
+  top: 1303px;
+  left: 258px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 960px;
+  height: 400px;
+}
+.desktop-8-child2,
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  left: 1330px;
+}
+.desktop-8-child3,
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  left: 2402px;
+}
+.desktop-8-child4,
+.desktop-8-child5,
+.desktop-8-child6 {
+  top: 1912px;
+  left: 258px;
+}
+.desktop-8-child5,
+.desktop-8-child6 {
+  left: 1330px;
+}
+.desktop-8-child6 {
+  left: 2402px;
+}
+.free-shipping-icon {
+  position: absolute;
+  top: 1958px;
+  left: 610px;
+  width: 256px;
+  height: 154px;
+  object-fit: cover;
+}
+.shipping1 {
+  position: absolute;
+  top: 2146px;
+  left: 610px;
+  font-size: var(--font-size-45xl);
+}
+.return-purchase-icon {
+  position: absolute;
+  top: 1958px;
+  left: 1717px;
+  width: 186px;
+  height: 186px;
+  object-fit: cover;
+}
+.return-refunds {
+  position: absolute;
+  top: 2169px;
+  left: 1589px;
+  font-size: var(--font-size-45xl);
+}
+.membership-card-icon {
+  position: absolute;
+  top: 1974px;
+  left: 2831px;
+  width: 256px;
+  height: 154px;
+  object-fit: cover;
+}
+.membership {
+  position: absolute;
+  top: 2161px;
+  left: 2770px;
+  font-size: var(--font-size-45xl);
+}
+.online-store-icon {
+  position: absolute;
+  top: 1372px;
+  left: 1654px;
+  width: 256px;
+  height: 154px;
+  object-fit: cover;
+}
+.store-related {
+  position: absolute;
+  top: 1526px;
+  left: 1589px;
+  font-size: var(--font-size-45xl);
+}
+.cash-and-credit-card {
+  position: absolute;
+  top: 1372px;
+  left: 2745px;
+  width: 256px;
+  height: 154px;
+  object-fit: cover;
+}
+.payments {
+  position: absolute;
+  top: 1526px;
+  left: 2733px;
+  font-size: var(--font-size-45xl);
+}
+.dress-front-view {
+  position: absolute;
+  top: 1372px;
+  left: 582px;
+  width: 256px;
+  height: 154px;
+  object-fit: cover;
+}
+.order-related,
+.trending-topics {
+  position: absolute;
+  top: 1526px;
+  left: 500px;
+  font-size: var(--font-size-45xl);
+}
+.trending-topics {
+  top: 2358px;
+  left: 1370px;
+  font-size: var(--font-size-77xl);
+  font-weight: 600;
+}
+.home-address-icon {
+  position: absolute;
+  top: 2513px;
+  left: 506px;
+  width: 284px;
+  height: 208px;
+  object-fit: cover;
+}
+.our-products,
+.store-locator1 {
+  position: absolute;
+  top: 2721px;
+  left: 482px;
+  font-size: var(--font-size-45xl);
+}
+.our-products {
+  left: 2651px;
+}
+.camera-icon {
+  position: absolute;
+  top: 2513px;
+  left: 2709px;
+  width: 284px;
+  height: 208px;
+  object-fit: cover;
+}
+.promoted-articles {
+  position: absolute;
+  top: 2952px;
+  left: 314px;
+  font-size: var(--font-size-77xl);
+  font-weight: 500;
+}
+.can-i-exchange,
+.can-i-order {
+  position: absolute;
+  top: 3151px;
+  left: 313px;
+}
+.can-i-exchange {
+  top: 3234px;
+  left: 314px;
+}
+.can-i-cancel,
+.recent-activity {
+  position: absolute;
+  top: 3317px;
+  left: 314px;
+}
+.recent-activity {
+  top: 2952px;
+  left: 2485px;
+  font-size: var(--font-size-77xl);
+  font-weight: 500;
+}
+.for-cod-can,
+.when-will-my {
+  position: absolute;
+  top: 3151px;
+  left: 2291px;
+}
+.when-will-my {
+  top: 3234px;
+}
+.can-i-add,
+.do-i-need,
+.where-to-check {
+  position: absolute;
+  top: 3317px;
+  left: 2291px;
+}
+.can-i-add,
+.do-i-need {
+  top: 3400px;
+}
+.can-i-add {
+  top: 3483px;
+}
+.desktop-8-child7 {
+  position: absolute;
+  top: 3624px;
+  left: 0;
+  width: 3620px;
+  height: 2.5px;
+  object-fit: contain;
+}
+.shop {
+  position: absolute;
+  top: 3732px;
+  left: 210px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 180px;
+  height: 78px;
+}
+.desktop-8-child8 {
+  position: absolute;
+  top: 4484px;
+  left: 0;
+  width: 3620px;
+  height: 2.5px;
+  object-fit: contain;
+}
+.copyright-2024-restoerun,
+.sites-and-stories {
+  position: absolute;
+  top: 4586px;
+  left: -65px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1326px;
+  height: 59px;
+}
+.sites-and-stories {
+  top: 3732px;
+  left: 1038px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  width: 626px;
+  height: 78px;
+}
+.about-us10,
+.contact-us3,
+.media-center,
+.membership1,
+.store-locator2 {
+  position: absolute;
+  top: 3845px;
+  left: 1038px;
+  font-weight: 300;
+  display: inline-block;
+  width: 247px;
+  height: 58px;
+}
+.contact-us3,
+.media-center,
+.membership1,
+.store-locator2 {
+  top: 3947px;
+  width: 311px;
+  height: 59px;
+}
+.media-center,
+.membership1,
+.store-locator2 {
+  top: 4050px;
+  width: 391px;
+}
+.media-center,
+.membership1 {
+  top: 4153px;
+  width: 355px;
+}
+.membership1 {
+  top: 4256px;
+  width: 314px;
+  height: 58px;
+}
+.policies,
+.terms-conditions {
+  position: absolute;
+  left: 2029px;
+  display: inline-block;
+}
+.policies {
+  top: 3732px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  width: 290px;
+  height: 78px;
+}
+.terms-conditions {
+  top: 3845px;
+  font-weight: 300;
+  width: 523px;
+  height: 58px;
+}
+.privacy-policy9 {
+  top: 3947px;
+  left: 2027px;
+  font-weight: 300;
+  width: 386px;
+  height: 59px;
+}
+.email1,
+.privacy-policy9,
+.return-policy6 {
+  position: absolute;
+  display: inline-block;
+}
+.return-policy6 {
+  top: 4050px;
+  left: 2035px;
+  font-weight: 300;
+  width: 380px;
+  height: 59px;
+}
+.email1 {
+  top: 3732px;
+  left: 2946px;
+  font-size: var(--font-size-45xl);
+  width: 194px;
+  height: 78px;
+}
+.restoerungmailcom,
+.telephone {
+  position: absolute;
+  top: 3845px;
+  left: 2827px;
+  font-weight: 300;
+  display: inline-block;
+  width: 602px;
+  height: 59px;
+}
+.telephone {
+  top: 4012px;
+  left: 2944px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  width: 382px;
+  height: 78px;
+}
+.any-other-queries,
+.for-onlinerestoerun-related {
+  position: absolute;
+  top: 4124px;
+  left: 2771px;
+  font-weight: 300;
+  display: inline-block;
+  width: 753px;
+  height: 118px;
+}
+.any-other-queries {
+  top: 4298px;
+  left: 2797px;
+  width: 743px;
+  height: 59px;
+}
+.facebook-icon7,
+.instagram-icon7,
+.twitter-icon7,
+.youtube-icon7 {
+  position: absolute;
+  top: 4532px;
+  left: 3440px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.facebook-icon7,
+.instagram-icon7,
+.twitter-icon7 {
+  top: 4545px;
+  left: 3148px;
+}
+.instagram-icon7,
+.twitter-icon7 {
+  left: 2993px;
+}
+.twitter-icon7 {
+  top: 4542px;
+  left: 3285px;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4715px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

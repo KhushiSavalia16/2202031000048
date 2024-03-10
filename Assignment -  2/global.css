@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jacques-francois-shadow: "Jacques Francois Shadow";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-109xl: 128px;
+  --font-size-45xl: 64px;
+  --font-size-77xl: 96px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-lightblue: #aacfdb;
+  --color-red: #ff0000;
+  --color-gray: #fffefe;
+
+  /* Paddings */
+  --padding-45xl: 64px;
+
+  /* Border radiuses */
+  --br-6xl: 25px;
+  --br-xl: 20px;
+  --br-31xl: 50px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+}
